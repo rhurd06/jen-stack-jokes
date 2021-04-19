@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+}
+#whoseJokeIn {
+    font-size: 20px;
+    background-color: honeydew;
+}
+#questionIn {
+    font-size: 20px;
+    background-color: honeydew;
+}
+#punchlineIn {
+    font-size: 20px;
+    background-color: honeydew;
+}
+#addJokeButton {
+    font-size: 20px;
+    background-color: mintcream;
+}
+h2 {
+    border: 10px;
+    border-style: dotted;
+    border-color: darkturquoise;
+    font-size: 35px;
+    text-align: center;
+}
+#outputDiv{
+    font-size: 20px;
+}
